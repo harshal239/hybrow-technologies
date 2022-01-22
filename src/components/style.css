@@ -1,0 +1,16 @@
+.addUser {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 1rem;
+}
+.addUser h1 {
+  text-align: center;
+}
+.user {
+  display: flex;
+  gap: 1rem;
+  max-height: 3rem;
+  justify-content: space-between;
+  align-items: center;
+}
